@@ -466,6 +466,37 @@ body {
     color: #5da9dd;
 }
 
+/* About Start */
+
+.about-hero-img {
+    background-image: url(../images/about-header.png);
+    width: 100%;
+    height: 670px;
+    grid-column-start: -4;
+    grid-column-end: -1;
+}
+
+.about-hero-text {
+    grid-row-start: 2;
+    grid-row-end: 2;
+    grid-column-start: 2;
+    grid-column-end: -3;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 10%;
+    padding-left: 80px;
+    
+}
+
+
+.about-hero-text h3 {
+    font-size: 60px;
+    color: white;
+}
+
+/* About End */
+
 /* Homepage Responsive */
 
 @media only screen and (max-width: 360px) {
@@ -514,4 +545,217 @@ body {
     .footer-cta {
         text-align: center;
     }
+}
+
+/* Homepage Responsive END */
+
+.main-about-text, .sec-about-text {
+    text-align: center;
+    color: white;
+}
+
+.main-about-text h4 {
+    text-transform: uppercase;
+    color: #EE1D34;
+}
+
+.sec-about-text {
+    margin-top: 30px;
+}
+
+.sec-about-text h4 {
+    color: #EE1D34;   
+}
+
+.sec-about-text h3 {
+    color: #F09819;
+}
+
+.sec-about-text img {
+    width: 100%;
+}
+
+.partners h4 {
+    text-align: center;
+    color: #F09819;
+    font-size: 40px;
+}
+.partners {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.partners img {
+    margin-top: 20px
+}
+
+.what-do-you-get {
+    background-color: #F4F4F4;
+}
+
+.what-do-you-get h4 {
+    color: #414345;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+.music-distribution-blurb {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 0px;
+}
+
+.music-distribution-blurb, img {
+    grid-area: 1 / 1 / 2 / 2;
+    width: 100%;
+}
+
+.music-distribution-blurb h2, p {
+    grid-area: 1 / 2 / 2 / 3;
+    display: flex;
+    flex-direction: column;
+}
+
+.music-distribution-blurb p {
+    margin-top: 80px;
+    
+}
+
+.catalogue-menagment-blurb {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 0px;
+}
+
+.catalogue-menagment-blurb img {
+    grid-area: 1 / 1 / 2 / 2;
+    width: 100%;
+}
+
+.catalogue-menagment-blurb h2 {
+    grid-area: 1 / 2 / 2 / 3;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.catalogue-menagment-blurb p {
+    margin-top: 80px;
+}
+
+.monetization-blurb {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 0px;
+}
+
+.monetization-blurb img {
+    grid-area: 1 / 1 / 2 / 2;
+    width: 100%;
+}
+
+.monetization-blurb h2 {
+    grid-area: 1 / 2 / 2 / 3;
+    display: flex;
+    flex-direction: column;
+}
+
+.monetization-blurb p {
+    margin-top: 80px;
+}
+
+.support-blurb {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 0px;
+}
+
+.support-blurb img {
+    grid-area: 1 / 1 / 2 / 2;
+    width: 100%;
+}
+
+.support-blurb h2 {
+    grid-area: 1 / 2 / 2 / 3;
+    display: flex;
+    flex-direction: column;
+}
+
+.support-blurb p {
+    margin-top: 80px;
+}
+
+.dedicated-support h3 {
+    text-align: center;
+    color: #EE1D34;
+}
+
+.dedicated-support p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.personal-acc-menager h3 {
+    text-align: center;
+    color: #EE1D34;
+}
+
+.personal-acc-menager p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.transparent-service h3 {
+    text-align: center;
+    color: #EE1D34;
+}
+
+.transparent-service p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.flexible-service h3 {
+    text-align: center;
+    color: #EE1D34;
+}
+
+.flexible-service p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.drm h3 {
+    text-align: center;
+    color: #EE1D34;
+}
+
+.drm p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.verification h3 {
+    text-align: center;
+    color: #EE1D34;
+}
+
+.verification p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.verification ul {
+    margin-top: -30px;
 }
