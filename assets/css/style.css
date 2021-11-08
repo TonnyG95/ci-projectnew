@@ -405,7 +405,7 @@ body {
     
 }
 
-.footer-cta-button:hover {
+.footer-cta button:hover {
     color: white;
     background-color: rgba(240, 152, 25, 70%);
 }
@@ -438,6 +438,10 @@ body {
     text-decoration: none;
 }
 
+.footer-usefull-links a:hover {
+    color: #EE1D34;
+}
+
 
 .footer-socials {
     grid-area: 7 / 1 / 9 / 5;
@@ -454,6 +458,7 @@ body {
     padding-left: 10px;
 }
 
+
 .fb:hover {
     color: #1877f2;
 }
@@ -462,8 +467,12 @@ body {
     color: #eb4255;
 }
 
-.twitter {
+.twitter:hover {
     color: #5da9dd;
+}
+
+.spotify:hover {
+    color: #1dd760;
 }
 
 /* About Start */
@@ -1038,6 +1047,7 @@ input[type=text]:hover {
     .footer-cta {
         grid-area: 1 / 1 / 2 / 4;
         margin-top: 20px;
+        text-align: center;
     }
 
     .footer-who-are-we {
@@ -1096,6 +1106,7 @@ input[type=text]:hover {
     .parners-icons {
         display: flex;
         flex-direction: row;
+        justify-content: center;
         padding: 20px 10px;
     }
 
@@ -1107,6 +1118,8 @@ input[type=text]:hover {
         grid-row-gap: 10px;
 
     }
+
+        /* For tommorow */
 
     .what-do-you-get h4 {
         grid-area: 1 / 1 / 2 / 3;
