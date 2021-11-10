@@ -1111,46 +1111,224 @@ input[type=text]:hover {
     }
 
     .what-do-you-get {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(5, 1fr);
-        grid-column-gap: 10px;
-        grid-row-gap: 10px;
-
+    display: flex;
+    flex-direction: colum;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    }
+    
+    .what-do-you-get h4 {
+        display: none;
+        width: 100%;
     }
 
-        /* For tommorow */
-
-    .what-do-you-get h4 {
-        grid-area: 1 / 1 / 2 / 3;
+    .main-blurbs img {
+        width: 150px;
+        height: 150px;
     }
 
     .main-blurbs {
-        grid-area: 2 / 1 / 3 / 3;
+        padding: 200px;
+        margin-top: -200px;
     }
+}
 
-    .dedicated-support {
-        grid-area: 3 / 1 / 4 / 2; 
-    }
+/* Repsonsive Desing 1920px */
 
-    .personal-acc-menager {
-        grid-area: 3 / 2 / 4 / 3;
-    }
+@media only screen and (min-width: 1920px) {
 
-    .transparent-service {
-        grid-area: 4 / 1 / 5 / 2;
-    }
+    /* Home Page */
+    
+   .nav a {
+       font-size: 35px;
+   }
 
-    .flexible-service {
-        grid-area: 4 / 2 / 5 / 3;
-    }
+   .hero-text h4 {
+       font-size: 45px;
+   }
 
-    .drm {
-        grid-area: 5 / 1 / 6 / 2;
-    }
+   .hero-text h3 {
+       font-size: 70px;
+   }
 
-    .verification {
-        grid-area: 5 / 2 / 6 / 3;
-    }
+   .cta {
+       font-size: 40px;
+   }
+
+   .main-text h2 {
+       font-size: 45px;
+   }
+
+   .main-text p {
+       font-size: 35px;
+   }
+
+   .dsps img {
+       width: 250px;
+       height: 250px;
+       margin-bottom: 20px;
+   }
+
+   .features-head h3 {
+    font-size: 50px;
+   }
+
+   .features-head h2 {
+    font-size: 50px;
+   }
+
+   .features-head p {
+       font-size: 35px;
+   }
+
+   .fast-delivery h3 {
+       font-size: 50px;
+   }
+   .fast-delivery {
+       padding: 30px;
+   }
+
+   .fast-delivery p {
+    font-size: 40px;
+    margin-top: 120px;
+   }
+   
+   .fast-delivery img {
+       width: 250px;
+       height: 250px;
+       padding: 50px;  
+   }
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   .free-service {
+     padding: 30px;
+   }
+
+   .free-service h3 {
+    font-size: 40px;
+   }
+
+   .free-service p {
+    font-size: 40px;
+    margin-top: 100px;
+   }
+
+   .free-serivce img {
+    width: 250px;
+    height: 250px;
+    padding: 50px;  
+   }
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   .unlimited-releases {
+    padding: 30px;
+   }
+
+   .unlimited-releases h3 {
+       font-size: 35px;
+   }
+
+   .unlimited-releases p {
+    font-size: 40px;
+    margin-top: 100px;
+   }
+
+   .unlimited-releases img {
+    width: 250px;
+    height: 250px;
+    padding: 50px;  
+
+   }
+
+   .why-us h3 {
+       font-size: 80px;
+   }
+
+   .free-distribution {
+       padding: 30px
+   }
+
+   .free-distribution img {
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+
+   }
+
+   .free-distribution h4 {
+    font-size: 40px;
+    padding: 20px;
+   }
+
+   .free-distribution p {
+    font-size: 35px;
+    padding: 20px;
+   }
+
+   .splits {
+    padding: 30px;
+   }
+
+   .splits img {
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+
+   }
+
+   .splits h4 {
+    font-size: 40px;
+    padding: 20px;
+   }
+
+   .splits p {
+    font-size: 35px;
+    padding: 30px;
+   }
+
+   .stats {
+    padding: 30px;
+   }
+
+   .stats img {
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+   }
+
+   .stats h4 {
+    font-size: 40px;
+    padding: 20px;
+   }
+
+   .stats p {
+    font-size: 35px;
+    padding: 30px;
+   }
+
+   .payments {
+    padding: 30px;
+   }
+
+   .payments img {
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+   }
+
+   .payments h4 {
+    font-size: 40px;
+    padding: 20px;
+   }
+
+   .payments p {
+    font-size: 35px;
+    padding: 30px;
+   }
 
 }
