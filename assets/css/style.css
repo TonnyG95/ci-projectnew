@@ -508,6 +508,12 @@ body {
 
 /* Homepage Responsive */
 
+@media only screen and (max-width: 320px) {
+    body {
+        width: 99vw;
+    }
+}
+
 @media only screen and (max-width: 360px) {
     .hero-text {
         text-align: left;
@@ -1132,13 +1138,38 @@ input[type=text]:hover {
         padding: 200px;
         margin-top: -200px;
     }
+
+    .verification ul {
+        list-style: none;
+    }
 }
+
+/* Repsonsive Desing 280px */
+
+@media only screen and (max-width: 280px) {
+    body {
+        width: 99vw;
+    }
+
+    .nav a {
+        font-size: 20px;
+    }
+
+    .cta {
+        display: none;
+    }
+}
+
 
 /* Repsonsive Desing 1920px */
 
 @media only screen and (min-width: 1920px) {
 
     /* Home Page */
+
+    body {
+        width: 99vw;
+    }
 
    .nav a {
        font-size: 35px;
@@ -1157,11 +1188,11 @@ input[type=text]:hover {
    }
 
    .main-text h2 {
-       font-size: 45px;
+       font-size: 30px;
    }
 
    .main-text p {
-       font-size: 35px;
+       font-size: 25px;
    }
 
    .dsps img {
@@ -1171,32 +1202,32 @@ input[type=text]:hover {
    }
 
    .features-head h3 {
-    font-size: 50px;
+    font-size: 40px;
    }
 
    .features-head h2 {
-    font-size: 50px;
+    font-size: 35px;
    }
 
    .features-head p {
-       font-size: 35px;
+       font-size: 25px;
    }
 
    .fast-delivery h3 {
-       font-size: 50px;
+       font-size: 30px;
    }
    .fast-delivery {
-       padding: 30px;
+       padding: 20px;
    }
 
    .fast-delivery p {
-    font-size: 40px;
-    margin-top: 120px;
+    font-size: 25px;
+    margin-top: 70px;
    }
    
    .fast-delivery img {
-       width: 250px;
-       height: 250px;
+       width: 150px;
+       height: 150px;
        padding: 50px;  
    }
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1208,19 +1239,20 @@ input[type=text]:hover {
    }
 
    .free-service h3 {
-    font-size: 40px;
+    font-size: 30px;
    }
 
    .free-service p {
-    font-size: 40px;
+    font-size: 25px;
     margin-top: 100px;
    }
 
-   .free-serivce img {
-    width: 250px;
-    height: 250px;
-    padding: 50px;  
+   .free-serivce > img {
+    width: 150px;
+    height: 150px;
+    padding: 50px;
    }
+
    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1230,138 +1262,163 @@ input[type=text]:hover {
    }
 
    .unlimited-releases h3 {
-       font-size: 35px;
+       font-size: 30px;
    }
 
    .unlimited-releases p {
-    font-size: 40px;
+    font-size: 25px;
     margin-top: 100px;
    }
 
    .unlimited-releases img {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     padding: 50px;  
 
    }
 
+   .muscian {
+       width: 100%;
+   }
+
    .why-us h3 {
-       font-size: 80px;
+       font-size: 50px;
+       padding-top: 30px;
+   }
+
+   .why-us {
+       width: 100%;
    }
 
    .free-distribution {
-       padding: 30px
+    width: 600px;
+    height: 300px;
+    margin: 10px 80px;
    }
 
    .free-distribution img {
-    width: 100px;
-    height: 100px;
-    padding: 30px;
-
+    width: 80px;
+    height: 80px;
+    padding: 20px; 
    }
 
    .free-distribution h4 {
-    font-size: 40px;
-    padding: 20px;
+    font-size: 30px;
+    padding: 10px;
+    margin-top: -20px;
+    padding: 10px;	
    }
 
    .free-distribution p {
-    font-size: 35px;
-    padding: 20px;
+    font-size: 20px;
+    padding: 5px;
+    
    }
 
    .splits {
-    padding: 30px;
+    width: 600px;
+    height: 300px;
+    margin: 10px 80px;
+    
    }
 
    .splits img {
-    width: 100px;
-    height: 100px;
-    padding: 30px;
-
+    width: 80px;
+    height: 80px;
+    padding: 20px; 
    }
 
    .splits h4 {
-    font-size: 40px;
-    padding: 20px;
+    font-size: 30px;
+    padding: 10px;
+    margin-top: -20px;	
    }
 
    .splits p {
-    font-size: 35px;
-    padding: 30px;
+    font-size: 20px;
+    padding: 5px;
    }
 
    .stats {
-    padding: 30px;
+    width: 600px;
+    height: 300px;
+    margin: 10px 80px;
+    
    }
 
    .stats img {
-    width: 100px;
-    height: 100px;
-    padding: 30px;
+    width: 80px;
+    height: 80px;
+    padding: 20px; 
    }
 
    .stats h4 {
-    font-size: 40px;
-    padding: 20px;
+    font-size: 30px;
+    padding: 10px;
+    margin-top: -20px;	 
    }
 
    .stats p {
-    font-size: 35px;
-    padding: 30px;
+    font-size: 20px;
+    padding: 5px;
    }
 
    .payments {
-    padding: 30px;
+    width: 600px;
+    height: 300px;
+    margin: 10px 80px;
    }
 
    .payments img {
-    width: 100px;
-    height: 100px;
-    padding: 30px;
+    width: 80px;
+    height: 80px;
+    padding: 20px; 
    }
 
    .payments h4 {
-    font-size: 40px;
-    padding: 20px;
+    font-size: 30px;
+    padding: 10px;
+    margin-top: -20px;	
    }
 
    .payments p {
-    font-size: 35px;
-    padding: 30px;
+    font-size: 20px;
+    padding: 5px;
    }
 
+
+   /* Footer */
    .footer-cta h2 {
-       font-size: 45px;
+       font-size: 35px;
    }
 
    .footer-cta button {
-       font-size: 40px;
+       font-size: 30px;
    }
 
    .footer-who-are-we h4 {
-    font-size: 30px;
+    font-size: 25px;
    } 
 
    .footer-who-are-we p {
-       font-size: 25px;
+       font-size: 20px;
    }
 
    .footer-usefull-links h4 {
-    font-size: 30px;
+    font-size: 25px;
    }
 
    .footer-usefull-links a {
-      font-size: 25px;
+      font-size: 20px;
       line-height: 60px;
    }
 
    .footer-socials h4 {
-        font-size: 30px;
+        font-size: 20px;
    }
 
    .footer-socials a {
-    font-size: 80px;
+    font-size: 60px;
    }
 
 
@@ -1373,26 +1430,30 @@ input[type=text]:hover {
    }
 
    .main-about-text h4 {
-       font-size: 50px;
+       font-size: 35px;
    }
 
    .main-about-text p {
-       font-size: 30px;
+       font-size: 20px;
    }
 
    .sec-about-text h4 {
-    font-size: 50px;
+    font-size: 35px;
    }
 
    .sec-about-text h3 {
-       font-size: 35px;
-       margin-top: 130px;
+       font-size: 30px;
+       margin-top: 100px;
    }
 
    .sec-about-text p {
-       font-size: 25px;
+       font-size: 20px;
        margin-top: 270px;
        line-height: 40px;
+   }
+
+   .sec-about-text img {
+       width: 90%;
    }
 
    .what-do-you-get {
@@ -1410,17 +1471,17 @@ input[type=text]:hover {
 }
 
 .music-distribution-blurb img {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 
 }
 
 .music-distribution-blurb h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .music-distribution-blurb p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .catalogue-menagment-blurb {
@@ -1428,16 +1489,16 @@ input[type=text]:hover {
 }
 
 .catalogue-menagment-blurb img {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
 
 .catalogue-menagment-blurb h2 {
-   font-size: 40px;
+   font-size: 30px;
 }
 
 .catalogue-menagment-blurb p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .monetization-blurb {
@@ -1445,21 +1506,21 @@ input[type=text]:hover {
 }
 
 .monetization-blurb img {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
 
 .monetization-blurb h2 {
-    font-size: 40px;
-}
-
-.monetization-blurb p {
     font-size: 30px;
 }
 
+.monetization-blurb p {
+    font-size: 20px;
+}
+
 .support-blurb img {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
 
 
@@ -1468,72 +1529,74 @@ input[type=text]:hover {
 }
 
 .support-blurb img {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
 
 .support-blurb h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .support-blurb p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .dedicated-support h3 {
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .dedicated-support p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .personal-acc-menager h3 {
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .personal-acc-menager p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .transparent-service h3 {
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .transparent-service p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .flexible-service h3 {
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .flexible-service p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .drm h3 {
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .drm {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .verification h3 {
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .verification p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .verification ul {
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
     list-style: none;
     font-weight: bold;
 }
+
+
 
 /* Contact Page */
 
@@ -1541,6 +1604,34 @@ input[type=text]:hover {
     font-size: 100px;
 }
 
+.contact-header-text h2 {
+    font-size: 35px;
+}
 
+.contact-header-text p {
+    font-size: 25px;
+}
+
+.contact-form label {
+    font-size: 20px;
+}
+
+.contact-form input {
+    font-size: 18px;
+}
+
+.contact-form textarea {
+    font-size: 18px;
+}
+
+#submit-button {
+    font-size: 20px;
+    width: auto;
+}
+
+#clear-button {
+    font-size: 20px;
+    width: auto;
+}
 
 }
