@@ -1139,7 +1139,7 @@ input[type=text]:hover {
 @media only screen and (min-width: 1920px) {
 
     /* Home Page */
-    
+
    .nav a {
        font-size: 35px;
    }
@@ -1330,5 +1330,217 @@ input[type=text]:hover {
     font-size: 35px;
     padding: 30px;
    }
+
+   .footer-cta h2 {
+       font-size: 45px;
+   }
+
+   .footer-cta button {
+       font-size: 40px;
+   }
+
+   .footer-who-are-we h4 {
+    font-size: 30px;
+   } 
+
+   .footer-who-are-we p {
+       font-size: 25px;
+   }
+
+   .footer-usefull-links h4 {
+    font-size: 30px;
+   }
+
+   .footer-usefull-links a {
+      font-size: 25px;
+      line-height: 60px;
+   }
+
+   .footer-socials h4 {
+        font-size: 30px;
+   }
+
+   .footer-socials a {
+    font-size: 80px;
+   }
+
+
+
+   /* About Page */ 
+
+   .about-hero-text h3 {
+    font-size: 100px;
+   }
+
+   .main-about-text h4 {
+       font-size: 50px;
+   }
+
+   .main-about-text p {
+       font-size: 30px;
+   }
+
+   .sec-about-text h4 {
+    font-size: 50px;
+   }
+
+   .sec-about-text h3 {
+       font-size: 35px;
+       margin-top: 130px;
+   }
+
+   .sec-about-text p {
+       font-size: 25px;
+       margin-top: 270px;
+       line-height: 40px;
+   }
+
+   .what-do-you-get {
+       text-align: center;
+   }
+
+   .what-do-you-get h4 {
+    display: none;
+}
+
+
+
+.music-distribution-blurb {
+   padding: 20px;
+}
+
+.music-distribution-blurb img {
+    width: 300px;
+    height: 300px;
+
+}
+
+.music-distribution-blurb h2 {
+    font-size: 40px;
+}
+
+.music-distribution-blurb p {
+    font-size: 30px;
+}
+
+.catalogue-menagment-blurb {
+    padding: 20px;
+}
+
+.catalogue-menagment-blurb img {
+    width: 300px;
+    height: 300px;
+}
+
+.catalogue-menagment-blurb h2 {
+   font-size: 40px;
+}
+
+.catalogue-menagment-blurb p {
+    font-size: 30px;
+}
+
+.monetization-blurb {
+    padding: 20px;
+}
+
+.monetization-blurb img {
+    width: 300px;
+    height: 300px;
+}
+
+.monetization-blurb h2 {
+    font-size: 40px;
+}
+
+.monetization-blurb p {
+    font-size: 30px;
+}
+
+.support-blurb img {
+    width: 300px;
+    height: 300px;
+}
+
+
+.support-blurb {
+    padding: 20px;
+}
+
+.support-blurb img {
+    width: 300px;
+    height: 300px;
+}
+
+.support-blurb h2 {
+    font-size: 40px;
+}
+
+.support-blurb p {
+    font-size: 30px;
+}
+
+.dedicated-support h3 {
+    font-size: 40px;
+}
+
+.dedicated-support p {
+    font-size: 30px;
+}
+
+.personal-acc-menager h3 {
+    font-size: 40px;
+}
+
+.personal-acc-menager p {
+    font-size: 30px;
+}
+
+.transparent-service h3 {
+    font-size: 40px;
+}
+
+.transparent-service p {
+    font-size: 30px;
+}
+
+.flexible-service h3 {
+    font-size: 40px;
+}
+
+.flexible-service p {
+    font-size: 30px;
+}
+
+.drm h3 {
+    font-size: 40px;
+}
+
+.drm {
+    font-size: 30px;
+}
+
+.verification h3 {
+    font-size: 40px;
+}
+
+.verification p {
+    font-size: 30px;
+}
+
+.verification ul {
+    font-size: 30px;
+    text-align: center;
+    list-style: none;
+    font-weight: bold;
+}
+
+/* Contact Page */
+
+.contact-hero-text h3 {
+    font-size: 100px;
+}
+
+
 
 }
