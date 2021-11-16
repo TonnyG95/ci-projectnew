@@ -29,7 +29,7 @@ Backgrund 2: 414345 \
 CTA (Call to action) 1: FF512F \
 CTA (Call to action) 2: F09819 \
 Accent color: F09819 \
-Font Color: CDCDCD \
+Font Color: CDCDCD 
 
 The font used in this design is Roboto
 
