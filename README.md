@@ -71,7 +71,7 @@ Performance was checked with PageSpeed Insights to make sure that my website was
 
 Code was checked with the W3C HTML validator and W3C CSS validator to ensure that there were no problems with my code and that my code met all standards.
 
-##HTML Validation
+## HTML Validation
 
 ![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-Preview.png)
 
@@ -80,11 +80,16 @@ Code was checked with the W3C HTML validator and W3C CSS validator to ensure tha
 ![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-Contact.png)
 
 
-##CSS Validation 
+## CSS Validation 
 
 ![Screenshot](https://bdm.network/wp-content/uploads/2021/11/CSS-Validation-Preview.png)
 
 Full CSS validation can be checked. [Here](https://drive.google.com/file/d/10y4IewpAc6yYmYOJMw6z65oZ8gQoDTV0/view)
+
+## Performance 
+
+![Screenshot](https://bdm.network/wp-content/uploads/2021/11/Preformance-Report.png)
+
 
 # Acknowledgements
 
