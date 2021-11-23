@@ -73,7 +73,7 @@ Code was checked with the W3C HTML validator and W3C CSS validator to ensure tha
 
 CSS Validation 
 
-![Screenshot](https://drive.google.com/file/d/1mShgn2ID4m_M7xzwP8rqNGvofuBVbLvv/view)
+![Screenshot](https://drive.google.com/file/d/1mShgn2ID4m_M7xzwP8rqNGvofuBVbLvv)
 
 Full CSS validation can be checked. [Here](https://drive.google.com/file/d/10y4IewpAc6yYmYOJMw6z65oZ8gQoDTV0/view)
 
