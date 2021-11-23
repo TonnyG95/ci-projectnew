@@ -75,7 +75,7 @@ CSS Validation
 
 ![Screenshot](https://drive.google.com/file/d/1mShgn2ID4m_M7xzwP8rqNGvofuBVbLvv)
 
-Full CSS validation can be checked. [Here](https://drive.google.com/file/d/10y4IewpAc6yYmYOJMw6z65oZ8gQoDTV0/view)
+Full CSS validation can be checked. [Here](https://bdm.network/wp-content/uploads/2021/11/CSS-Validation-Preview.png)
 
 # Acknowledgements
 
