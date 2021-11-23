@@ -71,6 +71,12 @@ Performance was checked with PageSpeed Insights to make sure that my website was
 
 Code was checked with the W3C HTML validator and W3C CSS validator to ensure that there were no problems with my code and that my code met all standards.
 
+CSS Validation 
+
+![Screenshot](https://drive.google.com/file/d/1mShgn2ID4m_M7xzwP8rqNGvofuBVbLvv/view)
+
+Full CSS validation can be checked. [Here](https://drive.google.com/file/d/10y4IewpAc6yYmYOJMw6z65oZ8gQoDTV0/view)
+
 # Acknowledgements
 
 I want to thank my mentor Antonija Simic. She is amazing. She helped me a lot with this project. This is my 2nd version of this project first one had a lot of problems with responsive design, but she jumped into it and gave me great advice on how to sort those problems out.
