@@ -14,6 +14,8 @@ The end-user of this website is independent artists who whats to get their music
 
 This project is a remake of my company website built on WordPress that can be checked [here](https://bdm.network/). This website is created in plain HTML5 and CSS. No frameworks are used for this project. 
 
+The deployed website can be visited [here](https://tonnyg95.github.io/ci-projectnew/).
+
 ## Structure
 
 This website is a multi-page website. It contains 3 pages home, about and contact page. Navigation does not include the hamburger menu since there was no JavaScript in this project. The website is fully responsive with the help of CSS Flexbox and CSS Grid. 
