@@ -36,9 +36,6 @@ body {
     color: #F09819;
 }
 
-.active {
-    color: #ED1D34;
-}
 .nav {
     padding-right: 20px;
 }
@@ -48,7 +45,9 @@ body {
     width: 100px;
     margin-left: 100px;
 }
-
+.active {
+    color: #FF213A !important;
+}
 .hero-img {
     background-image: url(../images/hero.png);
     width: 100%;
@@ -120,7 +119,10 @@ body {
     padding-bottom: 30px;
 }
 
-
+.dsps > img {
+    width: 100px;
+    height: 100px;
+}
 
 .dsps {
     text-align: center;
@@ -505,6 +507,14 @@ body {
     
 }
 
+#about-logo {
+    width: 50%;
+    padding: 50px;
+}
+
+.partners img {
+    width: 70%;
+}
 
 .about-hero-text h3 {
     font-size: 60px;
@@ -812,6 +822,11 @@ body {
 }
 
 /* Contanct Form */ 
+
+.contact-form {
+    width: 50%;
+    margin: auto;
+}
 
 .contact-header-text h2 {
     color: #EE1D34;
