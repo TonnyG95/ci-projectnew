@@ -1,108 +1,76 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# BDM Network 
 
-Welcome TonnyG95,
+BDM Network is a digital distributor and music publisher who wants to help independent artists and record labels on their music journey
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Showcase
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+![Screenshot](https://bdm.network/wp-content/uploads/2021/11/amiresponsive.png)
 
-## Gitpod Reminders
+### What is this website about?
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The end-user of this website is independent artists who whats to get their music to digital stores such as Spotify, Deezer, Amazon Music, Beatport etc. and have professional services where they are the top priority. BDM is innovating a new rising model of the music business. Music is all about passion, love, and creativity. They are much more than a music distribution company and far ahead of the old record label industry.
 
-`python3 -m http.server`
+# How is created?
 
-A blue button should appear to click: _Make Public_,
+This project is a remake of my company website built on WordPress. This website is created in plain HTML5 and CSS. No frameworks are used for this project. 
 
-Another blue button should appear to click: _Open Browser_.
+## Structure
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+This website is a multi-page website. It contains 3 pages home, about and contact page. Navigation does not include the hamburger menu since there was no JavaScript in this project. The website is fully responsive with the help of CSS Flexbox and CSS Grid. 
 
-A blue button should appear to click: _Make Public_,
+## Desing
 
-Another blue button should appear to click: _Open Browser_.
+This website is designed in Figma. The project can be find [here](https://www.figma.com/file/olr948PP31WCGqXlBKfSOY/BDM-ReDesing-%7C-Home?node-id=0%3A1)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The colours I chose for this design are 
 
-To log into the Heroku toolbelt CLI:
+Backgrund 1: 232526 \
+Backgrund 2: 414345 \
+CTA (Call to action) 1: FF512F \
+CTA (Call to action) 2: F09819 \
+Accent color: F09819 \
+Font Color: CDCDCD 
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+The font used in this design is Roboto
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Features
 
-------
+* Mostly dark design so that visitors will not strain their eyes when visiting.
+* An inspiring hero image combined with good typography and a CTA. 
+* A lot of CTA which will make it easier for visitors to get in touch with the client.
+* Fully responsive design.
+* Fully Functional contact form.
+* Colour changing social links and CTA on hover.
+* Prominent and repetitive CTA to attract the attention of visitors.
 
-## Release History
+## Libraries and online resources:
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+* Unsplash for all of the images on the website [Visit Unsplash for excellent free to use pictures.](https://unsplash.com/)
+* AmIResponive to check responsive design and make a screenshot for the project [Visit AmIResponsive.](http://ami.responsivedesign.is/)
+* Font Awesome for social icons [Visit Font Awesome.](https://fontawesome.com/)
+* UI gradients for choosing my gradients [Visit UI gradients.](https://uigradients.com/)
+* Figma for desinging [Visit Figma.](https://www.figma.com/)
+* Stark plugin for figma to check my contrast [Check out Stark plguin.](https://www.figma.com/community/plugin/732603254453395948/Stark)
+* W3C HTML validator to check my HTML code [Check your HTML code here.](https://validator.w3.org/)
+* W3C CSS validator to check my CSS code [Check your CSS code here.](https://jigsaw.w3.org/css-validator/)
+* PageSpeed Insights to check the preformance of my project [Check performance here.](https://pagespeed.web.dev/)
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+# Testing
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+## Responsive Desing
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+Testing was done in a few steps. Designs were done first for mobile devices using chrome dev tools. I check all of my pages on every device that the dev tool can emulate. Staring from devices with 280px screens to 4K. 1080p 1440p and 4K was natively checked.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+## Performance
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+Performance was checked with PageSpeed Insights to make sure that my website was loading fast with no problems. 
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+## Code
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+Code was checked with the W3C HTML validator and W3C CSS validator to ensure that there were no problems with my code and that my code met all standards.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+# Acknowledgements
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+I want to thank my mentor Antonija Simic. She is amazing. She helped me a lot with this project. This is my 2nd version of this project first one had a lot of problems with responsive design, but she jumped into it and gave me great advice on how to sort those problems out.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+This project was created for educational purposes only. Credit for all images goes to their owners. 
