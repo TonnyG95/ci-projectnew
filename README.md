@@ -55,7 +55,7 @@ The font used in this design is Roboto
 * Stark plugin for figma to check my contrast [Check out Stark plguin.](https://www.figma.com/community/plugin/732603254453395948/Stark)
 * W3C HTML validator to check my HTML code [Check your HTML code here.](https://validator.w3.org/)
 * W3C CSS validator to check my CSS code [Check your CSS code here.](https://jigsaw.w3.org/css-validator/)
-* PageSpeed Insights to check the preformance of my project [Check performance here.](https://pagespeed.web.dev/)
+* GTMetrix to check the preformance of my project [Check performance here.](https://gtmetrix.com/)
 
 # Testing
 
@@ -84,7 +84,7 @@ Full CSS validation can be checked. [Here](https://drive.google.com/file/d/10y4I
 
 ## Performance
 
-Performance was checked with PageSpeed Insights to make sure that my website was loading fast with no problems. 
+Performance was checked with GTMetrix to make sure that my website was loading fast with no problems. 
 
 ![Screenshot](https://bdm.network/wp-content/uploads/2021/11/Preformance-Report.png)
 
