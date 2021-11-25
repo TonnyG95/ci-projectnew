@@ -73,11 +73,11 @@ Code was checked with the W3C HTML validator and W3C CSS validator to ensure tha
 
 ## HTML Validation
 
-![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-Preview.png)
+![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-home.png)
 
 ![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-About.png)
 
-![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-Contact.png)
+![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-contact.png)
 
 
 ## CSS Validation 
