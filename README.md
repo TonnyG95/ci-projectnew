@@ -71,6 +71,26 @@ Performance was checked with PageSpeed Insights to make sure that my website was
 
 Code was checked with the W3C HTML validator and W3C CSS validator to ensure that there were no problems with my code and that my code met all standards.
 
+## HTML Validation
+
+![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-Preview.png)
+
+![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-About.png)
+
+![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-Contact.png)
+
+
+## CSS Validation 
+
+![Screenshot](https://bdm.network/wp-content/uploads/2021/11/CSS-Validation-Preview.png)
+
+Full CSS validation can be checked. [Here](https://drive.google.com/file/d/10y4IewpAc6yYmYOJMw6z65oZ8gQoDTV0/view)
+
+## Performance 
+
+![Screenshot](https://bdm.network/wp-content/uploads/2021/11/Preformance-Report.png)
+
+
 # Acknowledgements
 
 I want to thank my mentor Antonija Simic. She is amazing. She helped me a lot with this project. This is my 2nd version of this project first one had a lot of problems with responsive design, but she jumped into it and gave me great advice on how to sort those problems out.
