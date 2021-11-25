@@ -401,19 +401,19 @@ body {
     text-align: center;
 }
 
-.footer-cta button {
+.footer-cta-button {
     background-color: #F09819;
     text-transform: uppercase;
     color: #303030;
-    font-size: 25px;
+    font-size: 20px;
     border-radius: 10px;
     padding: 20px;
     font-weight: bold;
     text-align: center;
-    
+    text-decoration: none;   
 }
 
-.footer-cta button:hover {
+.footer-cta-button:hover {
     color: white;
     background-color: rgba(240, 152, 25, 70%);
 }
