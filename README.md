@@ -63,10 +63,6 @@ The font used in this design is Roboto
 
 Testing was done in a few steps. Designs were done first for mobile devices using chrome dev tools. I check all of my pages on every device that the dev tool can emulate. Staring from devices with 280px screens to 4K. 1080p 1440p and 4K was natively checked.
 
-## Performance
-
-Performance was checked with PageSpeed Insights to make sure that my website was loading fast with no problems. 
-
 ## Code
 
 Code was checked with the W3C HTML validator and W3C CSS validator to ensure that there were no problems with my code and that my code met all standards.
@@ -86,7 +82,9 @@ Code was checked with the W3C HTML validator and W3C CSS validator to ensure tha
 
 Full CSS validation can be checked. [Here](https://drive.google.com/file/d/10y4IewpAc6yYmYOJMw6z65oZ8gQoDTV0/view)
 
-## Performance 
+## Performance
+
+Performance was checked with PageSpeed Insights to make sure that my website was loading fast with no problems. 
 
 ![Screenshot](https://bdm.network/wp-content/uploads/2021/11/Preformance-Report.png)
 
