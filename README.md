@@ -55,8 +55,6 @@ CTA (Call to action) 2: F09819 \
 Accent color: F09819 \
 Font Color: CDCDCD 
 
-The font used in this design is Roboto
-
 ## Features
 
 * Mostly dark design so that visitors will not strain their eyes when visiting.
