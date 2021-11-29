@@ -10,6 +10,28 @@ BDM Network is a digital distributor and music publisher who wants to help indep
 
 The end-user of this website is independent artists who whats to get their music to digital stores such as Spotify, Deezer, Amazon Music, Beatport etc. and have professional services where they are the top priority. BDM is innovating a new rising model of the music business. Music is all about passion, love, and creativity. They are much more than a music distribution company and far ahead of the old record label industry.
 
+### User Stories
+
+General user stories
+As a user, I expect -
+to be able to navigate around the site easily.
+To be able to view the website from any device size.
+To have website loads fast.
+
+As a user, I want
+to be able to see whats is this service about.
+To be able to contact the company quickly.
+
+Artists stories
+As an artist, I want
+to see what this company can provide me with.  
+To have easy access to contact the company.
+
+First-timers user stories
+As a new user, I expect to feel welcome and not intimidated by lots of technical languages.
+As a new user, I want to know why shud I work with this company.
+As a new user, I want to have easy access to the company contact.
+
 # How is created?
 
 This project is a remake of my company website built on WordPress that can be checked [here](https://bdm.network/). This website is created in plain HTML5 and CSS. No frameworks are used for this project. 
