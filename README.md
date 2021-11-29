@@ -34,7 +34,8 @@ As a new user, I want to have easy access to the company contact.
 
 # How is created?
 
-This project is a remake of my company website built on WordPress that can be checked [here](https://bdm.network/). This website is created in plain HTML5 and CSS. No frameworks are used for this project. 
+This project is a remake of my company website built on WordPress that can be checked [here](https://bdm.network/). \
+This website is created in plain HTML5 and CSS. No frameworks are used for this project. 
 
 The deployed website can be visited [here](https://tonnyg95.github.io/ci-projectnew/).
 
