@@ -10,24 +10,24 @@ BDM Network is a digital distributor and music publisher who wants to help indep
 
 The end-user of this website is independent artists who whats to get their music to digital stores such as Spotify, Deezer, Amazon Music, Beatport etc. and have professional services where they are the top priority. BDM is innovating a new rising model of the music business. Music is all about passion, love, and creativity. They are much more than a music distribution company and far ahead of the old record label industry.
 
-### User Stories
+## User Stories
 
-General user stories
+### General user stories
 As a user, I expect -
 to be able to navigate around the site easily.
 To be able to view the website from any device size.
 To have website loads fast.
 
-As a user, I want
+### As a user, I want
 to be able to see whats is this service about.
 To be able to contact the company quickly.
 
-Artists stories
+### Artists stories
 As an artist, I want
 to see what this company can provide me with.  
 To have easy access to contact the company.
 
-First-timers user stories
+### First-timers user stories
 As a new user, I expect to feel welcome and not intimidated by lots of technical languages.
 As a new user, I want to know why shud I work with this company.
 As a new user, I want to have easy access to the company contact.
@@ -44,7 +44,7 @@ This website is a multi-page website. It contains 3 pages home, about and contac
 
 ## Design
 
-This website is designed in Figma. The project can be find [here](https://www.figma.com/file/olr948PP31WCGqXlBKfSOY/BDM-ReDesing-%7C-Home?node-id=0%3A1)
+This website is designed in Figma. The project can be found [here](https://www.figma.com/file/olr948PP31WCGqXlBKfSOY/BDM-ReDesing-%7C-Home?node-id=0%3A1)
 
 The colours I chose for this design are 
 
@@ -100,7 +100,7 @@ Code was checked with the W3C HTML validator and W3C CSS validator to ensure tha
 
 ![Screenshot](https://bdm.network/wp-content/uploads/2021/11/CSS-Validation-Preview.png)
 
-Full CSS validation can be checked. [Here](https://drive.google.com/file/d/10y4IewpAc6yYmYOJMw6z65oZ8gQoDTV0/view)
+Full CSS validation can be found. [Here](https://drive.google.com/file/d/10y4IewpAc6yYmYOJMw6z65oZ8gQoDTV0/view)
 
 ## Performance
 
