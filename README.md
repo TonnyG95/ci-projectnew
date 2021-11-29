@@ -113,4 +113,4 @@ Performance was checked with GTMetrix to make sure that my website was loading f
 
 I want to thank my mentor Antonija Simic. She is amazing. She helped me a lot with this project. This is my 2nd version of this project first one had a lot of problems with responsive design, but she jumped into it and gave me great advice on how to sort those problems out.
 
-This project was created for educational purposes only. Credit for all images goes to their owners. 
+This project was created for educational purposes only.
