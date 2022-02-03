@@ -4,7 +4,8 @@ BDM Network is a digital distributor and music publisher who wants to help indep
 
 ## Showcase
 
-![Screenshot](https://bdm.network/wp-content/uploads/2021/11/amiresponsive.png)
+![amiresponsive](https://user-images.githubusercontent.com/47572512/152343220-bed21ef9-6d29-4620-8ec9-94399a4211ef.png)
+
 
 ### What is this website about?
 
@@ -90,16 +91,16 @@ Code was checked with the W3C HTML validator and W3C CSS validator to ensure tha
 
 ## HTML Validation
 
-![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-home.png)
+![HTML-Validation-home](https://user-images.githubusercontent.com/47572512/152343362-a89e4fa8-c668-4535-b388-517d8a173d9a.png)
 
-![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-about2.png)
+![HTML-Validation-about2](https://user-images.githubusercontent.com/47572512/152343428-c352ba62-e794-44ae-8068-5cd8806e0297.png)
 
-![Screenshot](https://bdm.network/wp-content/uploads/2021/11/HTML-Validation-contact.png)
+![HTML-Validation-contact](https://user-images.githubusercontent.com/47572512/152343500-0630cb91-4a2d-4a95-bada-dd95ce758580.png)
 
 
 ## CSS Validation 
 
-![Screenshot](https://bdm.network/wp-content/uploads/2021/11/CSS-Validation-Preview.png)
+![CSS-Validation-Preview](https://user-images.githubusercontent.com/47572512/152343575-e58989ca-d81c-4cbb-a6a3-da252b232468.png)
 
 Full CSS validation can be found. [Here](https://drive.google.com/file/d/10y4IewpAc6yYmYOJMw6z65oZ8gQoDTV0/view)
 
@@ -107,7 +108,7 @@ Full CSS validation can be found. [Here](https://drive.google.com/file/d/10y4Iew
 
 Performance was checked with GTMetrix to make sure that my website was loading fast with no problems. 
 
-![Screenshot](https://bdm.network/wp-content/uploads/2021/11/Preformance-Report.png)
+![Preformance-Report](https://user-images.githubusercontent.com/47572512/152343633-8c2c094c-e58a-4973-84e2-87014d3420fe.png)
 
 
 # Acknowledgements
